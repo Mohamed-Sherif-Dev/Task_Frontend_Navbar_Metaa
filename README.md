@@ -1,24 +1,22 @@
-مشروع Navbar متجاوب (Responsive Navbar)
+📌 Project Description
 
- وصف المشروع
+This project is a responsive navigation bar (Navbar) that works seamlessly across all screen sizes (Desktop, Tablet, and Mobile), built using HTML, CSS, and JavaScript only.
+On larger screens, the navigation menu is displayed horizontally, while on smaller screens it transforms into a hamburger menu that can be toggled on click.
 
-هذا المشروع عبارة عن شريط تنقّل (Navbar) متجاوب يعمل على جميع أحجام الشاشات (Desktop - Tablet - Mobile)، باستخدام HTML و CSS و JavaScript فقط.
+⸻
 
-يتم عرض القائمة بشكل أفقي في الشاشات الكبيرة، بينما تتحول إلى قائمة مخفية (Hamburger Menu) في الشاشات الصغيرة، ويمكن إظهارها عند الضغط.
+✨ Features
 
+* Fully responsive design
+* Works on all screen sizes
+* Clean and easy-to-understand code
+* No external libraries used
+* Easily customizable and extendable
 
- مميزات المشروع 
+⸻
 
-* تصميم متجاوب بالكامل (Responsive Design)
-* دعم جميع الشاشات
-* كود بسيط وسهل الفهم
-* بدون أي مكتبات خارجية
-* قابل للتطوير بسهول
-
-
-
- التقنيات المستخدمة
+🛠️ Technologies Used
 
 * HTML5
 * CSS3 (Flexbox + Media Queries)
-* JavaScript 
+* JavaScript
